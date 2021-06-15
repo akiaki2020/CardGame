@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerOwned
+  - OpponentOwned
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bg
+    uniqueID: 1483549959
+    locked: 0
+  - name: Bg_Particle
+    uniqueID: 3025262709
+    locked: 0
+  - name: Board
+    uniqueID: 1527732071
+    locked: 0
+  - name: Battlefield
+    uniqueID: 878292233
+    locked: 0
+  - name: BoardUI
+    uniqueID: 871745803
+    locked: 0
+  - name: BoardCards
+    uniqueID: 3086377869
+    locked: 0
+  - name: HandCards
+    uniqueID: 3549087191
+    locked: 0
+  - name: Foreground
+    uniqueID: 2696523941
+    locked: 0
+  - name: GameUI
+    uniqueID: 3529070347
+    locked: 0

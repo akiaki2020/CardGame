@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bf057e584d4c474c9d4f675afeb10cd, type: 3}
+  m_Name: Card 1
+  m_EditorClassIdentifier: 
+  name: "\u57FA\u672C\u8A2D\u8A08"
+  cardType: 1
+  hp: 2
+  skill: 15
+  cost: 0
+  icon: {fileID: 21300000, guid: eecd160d94e6d67488da496de7a86460, type: 3}
+  ability: 0
+  spell: 0
+  time: 10
+  getMoney: 9
+  completeMoney: 20
+  incident: 0
+  IncidentPower: 0
+  flavor_text: "\u8ABF\u6574\u30FB\u30D2\u30A2\u30EA\u30F3\u30B0\u304C\u5927\u4E8B"
