@@ -1,29 +1,7 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+下記作品フォルダに公開されている「ブレーメンカンパニー」のソースになります。
 
-### What is this repository for? ###
+https://drive.google.com/drive/folders/1ytv3oApxL1wfIl8yAqCeTbOvSvsprGzm
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+![image](https://github.com/akiaki2020/CardGame/assets/60504998/165f1c88-9c48-4970-a564-344fc9673d2d)
